@@ -1,0 +1,12 @@
+Results from Karpathy RNN
+
+1) ran jerseyshore with default options except running on opencl
+   
+   th sample.lua cv/lm_lstm_epoch15.67_1.2910.t7
+
+    - tried the previous command, and got an error
+    - I apparently overfit b/c the training error at the end was around 1.0, but the validation error at its lowest was around 1.29
+    - Solution to overfitting according to Karpathy - increase dropout or decrease size of network
+    
+    
+2) ran lotr: th train.lua -data_dir data/lotr -opencl 1
