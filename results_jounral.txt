@@ -19,3 +19,138 @@ Results from Karpathy RNN
 	
 ROUND 2:
 1) th train.lua -data_dir data/jerseyshore -gpuid -1 -dropout 0.5
+Results from Jerseyshore: th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1
+
+king to sists so a girl in the man [Bleep].
+Okay.
+- I don't do Sim.
+Deena, stop, let's go.
+- No, it's sriking her.
+What the hell? - What is [Bleep]lch, like, party.
+- It's going out year? I need to friand alpans them.
+But bungy good night? We have to, don't go that? - We gaises, I firek in probit time.
+- It's borwerfide to dell up at the pickles.
+Yeah, she was like, like, it's being our oif, bro, jenkiey.
+I'm gonna do one so Ron oither inso butth! Bitch.
+- Deena, we gotta go Happy hald now do you know what for Him in to do it? Hello.
+- I'll be bitch that, Are you next.
+Now.
+Lot's a your scase Hin *I give it to drink, I want tever juighter a pithert it please.
+- It's her at what was fine.
+So this meanball, just like, "in the flour wore and get like a faunjhong birthday actone in the [Bleep] Dectem, I just just have someone at it, giving his, I need in mire him walking.
+- You can't see me? What the [Bleep].
+But really can come your for your kandd cake to lake my boy midusi ca questing, he gets to hupchirt, so Stuff the room.
+- Oh, oh, Mike's right, um.
+What are you definitely intalitide, but baby.
+And that's the same day.
+I have to go.
+Just criseing out said the only him, like, id Mike.
+You just say there on your best.
+[Covere] Yeah, right and be over therorna, I was no hat.
+We got you roomed beore, everybody my my only a - there's so cool that "eokly we're doing.
+- Mike, I should expebit, so you don't punny on the ballosm.
+- The ever.
+- No.
+- It's the left.
+You are here.
+That's her phone and my kid.
+I've feel the naw.
+[Distles] I fsel too a and with you.
+- Hello.
+- Like, jionni's stuff cewmeclaractaivida.
+- I think I'm weird.
+Yo? friend? - Rod you not mean on wly a naiging stast hore.
+What we're not afsepbation.
+What do you have to know? - You're gonna go to body out really dreat.
+Like, I'm doing out, too me.
+He should be a guy and up It can't talk to you, bro.
+Come on happeneng off and gay.
+Do you got something plona do him.
+I know him, because Jenni's sorry.
+And I'
+
+Results from Jerseyshore, temperature 0.5: th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5
+
+king to the way that the can the girls have to go out and that are do problems of her house off the best for She thinks there the best did me the puck home and go to now.
+I don't know what I mean? - Yeah, I want to look at the beach.
+- And we got a guy to the pretty fun and the cab with the picked.
+- What you gotta go to the snook, we're going to the face on the for you to the best time.
+- What are you were wanting to go to say.
+- The meatballs see something of the beach.
+- Oh, my God, I'm going to the better way a getter finished of my matter and good to and that's the drunk.
+- Yeah.
+I want to get a can like this people are I'm gonna put getting we take the shore house, we're gonna do the one.
+- I don't know what it was not really like it and right now.
+- I don't have a good time.
+- What's the best pose.
+- We got to come down.
+- I'm so surpent.
+- I don't know.
+- That's what I was gonna be everything and the good night.
+- I just really don't want to go to me.
+- What are you putting the beach to not good time with the problem.
+- You don't know what I'm like, "I can't see you.
+- All right, we don't think that's just a coulle the start.
+- Yeah.
+- What the [Bleep] This is something of the thought like the kid as a back.
+My pusted who have a bance of the meatthing and was a door.
+- I'm doing to me.
+I'm gonna go to the night about the corner.
+- I don't want to go out.
+- I smere the it bitch that I'm not so pursing a little stirl good from a girl, like, that good with the good.
+She got a little it.
+I'm doon.
+- I got a good my boys at the boat.
+- I have to say you got on my shore the hard.
+- I don't have a time right now, I was gonna get there, and I want to go to sturt in a drink.
+- Yeah, you know, I'm gonna be a spines.
+- I'm gonna do that at a something.
+- Oh, my God, what do you got a little face the shower.
+- I don't know what you gotta be a lot the something out of the back.
+- You for me.
+- What the [Bleep] You need to do it, then is have a little feel have a look and
+
+Results from Jerseyshore, temperature 0.75: th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.75
+
+king to the were a girl in the man and he was not gonna cute that in a shower now.
+- No, you know what I mean and strees for her.
+- What or all there see back, and he hat the cake.
+It sit on what do you made it, there's done it good, do you have not what my don.
+- [bleep] - You didn't leave that.
+She's gonna be like, "if you want to be one and this fall, I wanna go out.
+I have a neck tame [Bleep].
+- But.
+Mike for you.
+Bro.
+I can just do at it.
+What happened and this is your hair.
+- Can not go to go to the plate what I want to be people he wants to do in, let me ask you? - Yeah.
+- Bewier that I know I don't know what I mean? Gay.
+- Sam would think you're the starting, and we're in the girls.
+I want to do it.
+I can not just know what? - Good care, so I don't know what I did not have a good with you.
+- Oh, my God, drunk! - I don't know.
+Plays, I really can't go at a lot.
+- You can't say it? What the [Bleep].
+- Me and see you.
+- [Laughs] [betplapping and the dinging] - Say was  puns, bro.
+- I want to go to my friends to like that, are you leaving in your some bit, I can't throw out for everybody from real blo.
+Me and the sparler this is not going out.
+I'm not here, but I'm like, "last say you know what I mean.
+You're putting out friends on me right now.
+I don't know.
+You're probably fun.
+It's a can, like, um, bro? How out a I want to shill in nent now.
+- I think it's so room bitch, like, but what not the out.
+I have a all this house tomaget bitch you're doing to a [Bleep].
+You need me to sreald to peapured, and that's your extrait of you with me.
+It's stalking better and go something.
+We're wore.
+I got you.
+I feel like it was right now how see your Jersey something.
+- Wait.
+- What's your situation? I think that's the [Bleep] good for the busbest to be to me.
+We do you wanna talk to back, but See anything.
+You don't want to go anymore.
+What's mink we're kissing out now.
+- Can you were that shating me and the isn? Changre and boor, come on, no, showing hard and don't I fe
