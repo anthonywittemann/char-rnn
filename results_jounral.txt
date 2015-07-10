@@ -10,3 +10,12 @@ Results from Karpathy RNN
     
     
 2) ran lotr: th train.lua -data_dir data/lotr -opencl 1
+
+	th sample.lua cv/lm_lstm_epoch28.10_1.1723.t7
+	
+	- got the same result as above
+	- I'm going to try training them now on the cpu without opencl, 
+	- I'll also increase dropout for jerseyshore, increase size for lotr
+	
+ROUND 2:
+1) th train.lua -data_dir data/jerseyshore -gpuid -1 -dropout 0.5
