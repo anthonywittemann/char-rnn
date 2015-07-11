@@ -154,3 +154,5 @@ We do you wanna talk to back, but See anything.
 You don't want to go anymore.
 What's mink we're kissing out now.
 - Can you were that shating me and the isn? Changre and boor, come on, no, showing hard and don't I fe
+
+Training lotr: th train.lua -data_dir data/lotr -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5
