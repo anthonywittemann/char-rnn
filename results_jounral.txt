@@ -180,3 +180,160 @@ ther the hobbits are still the strength of the Orcs and the North and the water 
 Results: th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.1
 ther was the strength of the Shire and the stream of the water and the stream of the stream that was still the strength of the stream of the stream. The stream was still the stream of the stream that had been still the strength of the stream of the stream that was still and the stones of the Shire. The stream was still and strange and strange and strange and strange than the stream of the hills. The hobbits were still the strength of the walls of the Mountains of the Mountains of the Mountains of the Mountains of the Mountains of the Mountains of the Mark and the stream of the stream that had been still the strength of the stars and the stones of the Enemy. The stream was still the stream of the stream and the stream of the stream that had been still the strength of the stream and the stream of the stream they saw that they were still the stream of the stones of the West. The stream was still and staring and stretched and stood at the stream of the stream and stood a strange stream of stone and strange the stream of the stream and the stream of the stream and the stream they saw the stream and the stream of the stream they were still the stream of the stars and the stones of the darkness and the stream of the stream that had been still the strength of the stream and the stream of the stream and the stream of the stream and the stream they saw that they were still the stream of the stars and the stream they saw that they were still the stream of the stream that had been strange and strange and strange than they stood at the stream that had been strange and strange and strange and strange than the stream of the stream. The stream was still and strange and strange and stream and the stream of the stream that had been still the strength of the stream and the stream of the stream and the stream of the stream and the stream of the stream of the stream and the stream of the stream of the stream that had been still still the stones of the stream and the stone and the stars
 
+
+
+Dickens: th train.lua -data_dir data/dickens -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5
+Results: th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1
+
+bong sobling;
+did in the appointed to justice to him, and the Light and support. But for a
+mught removed in
+good, and everybody else and Mrs. Streng, in all my things, regarded ons
+present for her, no deserve, in pleasure that is no
+word! He hadn't mentioned supprided
+upon back. I have impressed the wind, from me!
+
+'As nothing, let him sort about a son of shirts of which they was lately, you are; for I remonstrate to Mr. Micawber you will not have been an ready with mahins in a murmur time, on their own tea-hanrce, and perhaps it I, and one for
+that little world would do.
+however the
+pablame wement, as a fed to the
+time,
+extraordinary.
+
+Now, my dear Him, after everybody else.'
+
+'Well, sir!' said I. 'He could make us a considerable day which she is!
+A care when the amount. Did's my aunt's man has some one by him, as I often.
+Sometimes that Say Mr. Micawber a crisince availed to Agnes as we know, for
+the cart is helpy--when the ach of one of my manner was "pursuy's red fastations that it must,
+but it, except dusis and interfibly. This is so
+appearing upon that present to a state of coultly friends to me, as to its overthrough, but I allowed
+my sister, slightly, 'have on such a school, as I can't suggint me.
+When my aunt gose; and her, and by well having had cumility, and something enjoyed to some bably, the
+son to book if he was in my expression. about this time what I'll come from the
+little more, Mr. Omer.'
+
+'If Mr. Micawber is sure I have something in forgiveness,' said Mrs. Micawber, 'what but a week you would
+intimiced her a dispose of him, that I took herself, on the same deference down?'
+
+'You won't, for sees I rose,' said my aunt for her, holding it out, and shook hands with the description of the by Highgate like a new choes of him up the crack. She was past it
+stroggered at the face and hand upon a heavy--the orxination, and went
+by myself with my
+remorse of the little door,
+and there was
+a ponder.'
+
+'I know, when I Pegg
+
+
+Results: th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1 -temperture 0.5
+bond the old house
+of the short in the rest of the houses were in a closeness of his hand,
+and shook his head at the morning, that the more was such a particular of
+the good handsome of his face, that I had not held on the same of the window of
+my constant than the back the calling and looked ready, and said that I could
+not be a finger, and was not a state of my sanging in the state of my aunt's
+window and walking at the door, and we had left of the carrier, and
+the object of my thoughts in the course of she could make it behind the
+money and apprehension; then I was so tears that the night of the property of
+the moan of the trouble that I was to have been going to be the feeling of
+place of compliments, and all the state of the children and the more of a candle
+and the best treasure of a step of a little confidence of the shoulder of
+her companion and more visit at the part of the way and strengthen the
+sea, and looking on the staircase, and the door was tell me that he had
+passed, in the short, the rest of my hand with a great brown as he had
+all disposed to say that I should say something of the beautiful fortune, and so
+pretty only a bit of looking at the office that made a few consideration
+of the whole way, and seemed to know what, on the house of the morning,
+which she was always a pretty look about the great people of the constant consideration
+of the form of a several times.
+
+'I have a most bed, in the back of the ground and the man that it was a little time to see him to see him any things, she is at the name of the subject of the hands of my own house, and sat on the same delight.
+
+'It is not a word,' said I, 'I have no doubt.'
+
+'I was so sure, and she will be so much as to be a good deal of the seat, and what a word of a school-coach, one friend,' said Mr. Peggotty. 'I don't know what I was a bright
+distance of trust, and so much about to be the more than it was a little
+distracted the man of her company; and the sound of Mr. 
+
+Results: th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1 -temperature 0.5 -length 6000
+bond the old house
+of the short in the rest of the houses were in a closeness of his hand,
+and shook his head at the morning, that the more was such a particular of
+the good handsome of his face, that I had not held on the same of the window of
+my constant than the back the calling and looked ready, and said that I could
+not be a finger, and was not a state of my sanging in the state of my aunt's
+window and walking at the door, and we had left of the carrier, and
+the object of my thoughts in the course of she could make it behind the
+money and apprehension; then I was so tears that the night of the property of
+the moan of the trouble that I was to have been going to be the feeling of
+place of compliments, and all the state of the children and the more of a candle
+and the best treasure of a step of a little confidence of the shoulder of
+her companion and more visit at the part of the way and strengthen the
+sea, and looking on the staircase, and the door was tell me that he had
+passed, in the short, the rest of my hand with a great brown as he had
+all disposed to say that I should say something of the beautiful fortune, and so
+pretty only a bit of looking at the office that made a few consideration
+of the whole way, and seemed to know what, on the house of the morning,
+which she was always a pretty look about the great people of the constant consideration
+of the form of a several times.
+
+'I have a most bed, in the back of the ground and the man that it was a little time to see him to see him any things, she is at the name of the subject of the hands of my own house, and sat on the same delight.
+
+'It is not a word,' said I, 'I have no doubt.'
+
+'I was so sure, and she will be so much as to be a good deal of the seat, and what a word of a school-coach, one friend,' said Mr. Peggotty. 'I don't know what I was a bright
+distance of trust, and so much about to be the more than it was a little
+distracted the man of her company; and the sound of Mr. Copperfield is a service
+to any new place, and the grave was a beautiful approaching me in the beach.
+I have been a little and like a subject and his pocket.
+
+Mr. Micawber was alone, and the sort of thing was passing from his stranger and her hands and little object, which was the door, and could not look at the time, and said that I could have a subject than I had a letter in a water,
+though I don't know what was going to be such a little past spoken, and
+stopped on the state of the spirits of his more door on the carrier,
+steadily and we were well as I knew that I was to me to have no doubt it
+was the change of my own eyes, and the back confidence of the passage of
+a little hand in the short face in my suspecting and always at the point of the
+old part of the world with a low room at the light of the time, and the old
+particular trembling and extremely sorry of her hands at all the rest of his
+about him.
+
+'I will come to it you have been a general night, and my dear Copperfield,' said Mr. Micawber, 'or the same words as any
+shadow, and I do not be an approved than he had been such a means of being
+made of the story where the than the side of her particular same step that
+I don't know what the boy was only some moments in the course of the stairs.
+I was always a man of a lorn for the table, to my travelling and in dance.
+
+I could not help thinking in the room where the day was but a few person of my hand and respectability of the soft hand, that he lay and then sat out of the little way of a night. I thought she sat on his
+face, 'she is a surprised put on a property with a family with my boy, and
+bewildered with my former honour of a little time, with the same time with a pleasure
+of the first last state of manner, and that had seen my aunt had never
+been heartily with the table for disturbing the Doctor's eyes with a boys and
+my own confidence and a street discovering my being produced in the
+company to me, and the letter was so uncomfortable to see me by his forehead, and
+because I began to come back again.
+
+'That's a little distance,' said I, 'you must have been many things that is
+that I could not have been to have a man in such a present little old times,
+that it was a particular character of my own destroy, and how many more
+more sound of the way, of some fancy, and there was a window and supportable with his
+consideration and discovering that the man of completely manner that were
+an inexception of my dear, and he made a sort of second-great bath and way and
+because it were a great part of the end of this new and things, and seemed
+to feel to see a good means of the world of the first manner, that I had
+such a resting of my self-begin and more expense of the world, and the natural
+person of the face of the whole drawing-room, and to see her with a letter in
+the kind, and the stipped to and our person of my life. I saw that
+I saw him down to such a same boy of a state of tears, and the little wife
+was glad to think that the day had influenced that he should have been
+many more solemnly to me and her change, and the storm of my own manner
+to the school of satisfaction, and a little boat. I was going to come out
+of the door, that he was not his shops of my communication.
+
+'It was any affections of a first streets, and the silent whole words of his sea, I mean to look at me, that it was a consideration of the company! What was much of a saflection of that dreams of her arms, and the same wife and mind, when I passed a street. When I see her of the same
+word, in the cart of the same care, and for a rest of my former handsome complete
+good people and some time, that I was a sensible little house that I would be a ruse
+with it, and the confession of the alitation of the constraint of the
+whole stranger of the thoughtful story, and a little window was a good deal
+as I was only whom I knew what I saw them about the common respectable and unnecessary
+than a fire to her life, an
