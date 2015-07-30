@@ -337,3 +337,59 @@ with it, and the confession of the alitation of the constraint of the
 whole stranger of the thoughtful story, and a little window was a good deal
 as I was only whom I knew what I saw them about the common respectable and unnecessary
 than a fire to her life, an
+
+Hannah Montana:
+th train.lua -data_dir data/hannahmontana -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5
+th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.5 -length 4000
+
+Oh, no, no, no, no, no, no, no, no, no, no.
+They're not gonna be the one who said I was gonna see that to get in there? I don't know what I'm sorry, Miley You didn't tell you a concert to say what? - Oh, well, that's okay? - Sorry, that's what I was a beautiful little single show and we got a mind.
+Oh, honey, what are you doing? And I was that sure I said that I think I can't get a picture of the best friend at the way that you can be the heck of a little bit of the car.
+Hey, you might want to get a finger little heart he didn't even see the house.
+I wasn't all the point of the place.
+Don't worry, what about that? Well, let's go to the food for you.
+You got a problem, and because I have to do this.
+That's it.
+What are you doing? I don't know what he thought it's close to the head.
+I guess I said, I don't have to be right back and I'll put them to a song and you got my daddy to get the money.
+- I know.
+I don't know, I can stay and you like you and you want to get a step off the moose than this time to say it.
+I was gonna say that.
+- But I mean, you want to get the door of the way that that was my footon to stop creaming my book and help you should go there.
+You know what? I know you're sure about this.
+I love it.
+- Oh, yeah, that's a show the truth.
+I'm gonna put it out.
+- You know, the other belt thing is that of the front of the movies, they can stop that to the good place.
+You know, I is the best friend and then you were doing the rest of your face in the car.
+Oh, no, no.
+That's a little better when you were gonna happen to be so just right now.
+I gotta go with a good time.
+And what about the screaming to see your bad.
+I mean, this is a funny thing you're not staying for my boyfriend like this, and then I'm not the only one who wants to be the one of the party that he said I don't think I don't have a hair and you want to be a real movie for yourself.
+- Oh, yeah.
+I don't know.
+- Oh, yeah, I said that I don't say you can do that.
+I am so good.
+I bet the boy the perfect life was not just a boyfriend and have you say Oliver should have to look at the girl of your best friend.
+I mean, you gotta be a million in the fans and I'm so still like that thing don't waste the best for me and I mean, l was a bost in the room.
+-That's good.
+What are you going to go to the day was gonna be a bad stuff and get a girl in the show on the kind of show.
+That's why I'm gonna be saying I need to read the show of this.
+l bet my face is that you're gonna be a little back.
+Hey, I'm talking about I stopped totally in the explain and look all the house on the one stuff and that's the back.
+I'm a lot of beautiful to the black.
+Hey, I mean, you don't want to tell me about this a morning cars.
+And I can't believe it.
+I don't know what I don't have to go out and pay for the way that you want to do that.
+You have the time the best friend can say that you don't mean my dad fall in a bad to do this.
+- I could go out to the dogs and I can see that.
+I have to go to the place.
+What are you doing? I said not to be the best friend.
+- Okay, this is the best show of her daddy and I found him the secret this thing but I say that I wasn't like this and then we like something that I can stay him that you said you were a little something to be the boy the time, that's right, that is so not.
+You're right.
+- Well, but I have a couple of the family that touched my show and I say, "Daddy, when the face was gonna be the position and I can't believe you want to read the face.
+- No, no, I'm going to the new pretty dad with the hands in the rest of the time with this with my party, and the other side of my face this is your dog locker.
+Okay, l was so good for me.
+Oh, no, you don't know what you're not asked to get out of the single in the way I know that that sounds this surprise, you can wait to meet you, you can't like to do this thing to do that? I didn't see the head of the dumb.
+It's not a second day and now I bet she's gonna make it any more
