@@ -393,3 +393,103 @@ You're right.
 Okay, l was so good for me.
 Oh, no, you don't know what you're not asked to get out of the single in the way I know that that sounds this surprise, you can wait to meet you, you can't like to do this thing to do that? I didn't see the head of the dumb.
 It's not a second day and now I bet she's gonna make it any more
+
+
+th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.75 -length 4000 -primetext "Oh, yeah"  (Not as good)
+
+Oh, yeah, he should use the great are that and it was not going to say I can be his time to give you luck.
+Uh, what a girl will be so much fun and canice.
+l just don't know that.
+Thank you.
+l finally call my hand, Mom, I'm spending a same night work for the whole thing.
+- You're just the best school make that shower and we're gonna be not burned to the other party to be like that, you can go tell I said you are? What are you doing? Daddy, the one, it's me.
+Hey, Hannah Montana drive that way a little boy come out there.
+You get her favourite show.
+l don't know all along.
+What is sure you want to say that? (RACKING) I'm gonna do that.
+"Oliver can't be great.
+It was not going to have to do it before you want to do is ready to let him pick this back, daddy, what are you doing? OK I love that shape how can't you look at that? Who cares what l don't have a pop star for me I'd have got to be the family time to Sakahaation! I know.
+Come on! l don't know.
+Maybe if you're doing for that talk to the house for a truth, stuff.
+You're so growing out there and his midetion with a marar carfet, but so come on good chole, did we ask the moment.
+Lilly, you still gotta forget the ball.
+But l'm a little handsome with a thousand right with her.
+You wanna talk to you anymore.
+That's your carnet out here.
+I guess I'm starting to count on the whole life with the new picture Dad to tell you the boy they don't want to sign around the pretty game and right all the world make this to get my purpe of is this don't call my car.
+Okay, now you know, Rico.
+Aunt Polly getting that big touble better than more like the man.
+You ever call my friend.
+I can't believe you went, Thoy like a waefus in the house.
+But I'm in it.
+It's not really hoping the boy, the best are we can lope aurearing.
+- I've got a compation, and the bud song should be just too amazing the last seats for a jear and you thought about that principal! My first girl will be before there that you do it to me, I don't have the family purrited and one of that changed we can be big car.
+Roxy, it's not the head and have your dad is a great stuff of  starting chance, first so much l tried it comes.
+That's a hat man, I don't like it.
+I was just gonna call you sensitive.
+Aw! I'm sorry.
+- What do you mean? Yeah, I am not gonna miss this up with you, see, Miles, I mean, I don't wanna go all the bad stuff and call it an ending person? -Hey, those said.
+See the guy you wanna talk to you, and I said the time, come on, San, I'm sorry, thanks for a heart and so beautiful feeling but I think that would love? Because if l know I was the last thing he put down here.
+l didn't have to be suggestar, so about this.
+You really are the best fighting first.
+There's no home of your actual confering this ball.
+-Good thing of the girlfriend.
+- You are the sither.
+- You think that's like he said that everybody was girls for you.
+You should do it, she says you don't mean how sabe is one of those other time fix off the place he had a new car's gonna be fine! You know Oh, yeah! l should stop that dust that bye with my best friend.
+That's it.
+How do you have to do that? Don't look at the concert.
+Daddy, how much l wanted you away they say what? I'm not going to be fire.
+I got a break of the pince of my boy we have a little room from reminds on stack.
+And there was a good thing at all to wrat the real believe in one man and we got to bleak your bluestand and we're back, but I didn't know what she'd be out of the stuff at all and just tell you a second little not for her family.
+Well, it's buy her little the movie for me.
+That's how you get the world before you want me to big.
+That's right, I can't believe I hope this is so much a real problem.
+And can't ask your face of my secret to tell me I'm still gonna support the place with the answer high for the leat.
+I miss you.
+Yeah, I was thinking this was a hug.
+Oh, yeah, why don't you go out to the long.
+One of the people cranding love in the room and a gara later and the porty is so will supp
+
+th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.25 -length 4000 -primetext "Oh, yeah"  (VERY good)
+
+Oh, yeah, yeah, yeah, yeah I got a little bat of the stars of the stars and then you want to go to the beach that l didn't want to say that that was the stuff so like that.
+- I said it was the best friend of the car.
+I don't know what I do.
+I didn't have to tell you that I'm the only thing you can go here and the world that l don't have to say that that you can get the best problem.
+I don't know what I do.
+- What are you doing? - You know what? - Oh, yeah, that's it.
+- You are the one that I don't know what I want to say that you said that I don't know what I can be a same thing you want to say that.
+- What are you doing? - I don't know what I want to go to the stars.
+- You got a little bit of the stars of the back that I got my grandma and her hair things are so on the place and then I don't have to say that that I can stay at me to say that I was a little better than that.
+I don't know what I can do that and the only thing I can do it.
+- I want the star of the face.
+- What do you think? - What are you doing? - You wouldn't like to go to the party that you can get the second thing to be starting to have to say that I was a boyfriend for the stuff with the star and the problem with the party and then I don't know what I don't know that you want to get the more to say that.
+I can't believe I can't believe you were a little bit of the star of the coolest party and the only thing you want to get the senior that was the best face to be so cool.
+- Oh, yeah.
+- You know, you are a little better than that.
+I mean, the truth is that I'm sorry.
+I don't know what that makes me think I was so good to say this and she should be a little something that I was a little bit of the movie and she said that I was so sure you can do it.
+I can do this.
+Hey, l was a little something to be the only one who doesn't think I was like this thing I was a beautiful grandma and the boy the best friend that I don't want to go out to the best friend that I can do this.
+I don't know.
+l don't know what I can find the back of my life.
+I can't believe you don't want to say that I should be a little bit of the and the best friend with the press we can be a puppet with the rest of the house and the stars are so good to be here to talk to you.
+- No, no, no, no, no, no, no, no, no, no.
+No, no.
+I didn't say that I was the only one that I can be a little bit of the party and she was a little bit of the brother and I don't want to be a second to the concert and then you want to get the couple of many place to get the second one.
+I don't know what I do anywhere with me and you don't want to say it.
+I don't know what I don't know what I do.
+- You think l don't have a pop there.
+I was the one that you got to see the stars and then I can say that.
+- Yes, I don't say that I can see that with me.
+I can't believe you want to see the time.
+- Oh, yeah, I love you.
+And I was gonna get my house and some stars are so good.
+I don't know what I can start the time to be a little bat and a chance to go to the back and the one that I can stay here and I am so sure you were gonna be a little bit of the face that I can do this.
+- Oh, yeah, but I don't know what you can stay all the way to the place to stay and the secret was the best for you.
+I don't know what you can stay and make me feel a little stupid and like the coolest party and look at your stupid face of man and the best friend.
+- Yeah, so I was the best friend and the guy that I can't believe you can stay to stay away from me.
+And I can't get the boy that you don't have to go to the life with me.
+Well, I don't know what I do something like this to the whole stuff and she had a little bad and you gotta go to the boy that you want to go to the band and then you want to say that? - What are you doing? - Oh, yeah, I don't know what you don't know what we do what I'm sorry that I don't know what you're gonna go to the best friend that I didn't have the room and the best friend who said I don't have to do this.
+- I got the best of both worlds
