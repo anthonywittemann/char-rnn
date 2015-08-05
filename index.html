@@ -36,11 +36,11 @@
 <p>Below I have included the terminal commands to train and sample, my logic for using different parameters in addition to the generated sample outputs. Lines may continue past the visible part of the output box. Just scroll right within the output box to see the rest of the line.</p>
 
 
-<b>Jersey Shore:</b>
+<b STYLE="font-size: 20pt;">Jersey Shore:</b>
 
-<p><b>Training:</b> th train.lua -data_dir data/jerseyshore -gpuid -1 -dropout 0.5</p>
+<p><b STYLE="font-size: 16pt;">Training:</b> th train.lua -data_dir data/jerseyshore -gpuid -1 -dropout 0.5</p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 king to sists so a girl in the man [Bleep].
@@ -94,7 +94,7 @@ And I'
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 king to the way that the can the girls have to go out and that are do problems of her house off the best for She thinks there the best did me the puck home and go to now.
@@ -139,7 +139,7 @@ I'm doon.
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.75</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.75</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 king to the were a girl in the man and he was not gonna cute that in a shower now.
@@ -188,7 +188,7 @@ What's mink we're kissing out now.
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.9 -primetext "I mean" -length 3000</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.9 -primetext "I mean" -length 3000</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 I mean.
@@ -254,7 +254,7 @@ It's there that happen.
 < TODO ------ talk about results -------- One thing the rnn learned was that they like Italian. Bravo char-rnn! </p>
 
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5 -primetext "yeah bro" -length 4000</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5 -primetext "yeah bro" -length 4000</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 yeah brought the girls.
@@ -302,7 +302,7 @@ I'm doon.
 
 < TODO ------ talk about results -------- This could honestly be the script for the show if the actors and actresses were seriously drunk. </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.25 -primetext "party" -length 4000</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.25 -primetext "party" -length 4000</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 party situation.
@@ -398,11 +398,11 @@ I don't know what we go, and we love anything and on the back of the definitely 
 
 <p> TODO ------ talk about results -------- Apparently, this rnn just doesn't know. </p>
 
-</p><p><b>Hannah Montana:</b></p>
+</p><p><b STYLE="font-size: 20pt;">Hannah Montana:</b></p>
 
-<p><b>Training:</b> th train.lua -data_dir data/hannahmontana -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5</p>
+<p><b STYLE="font-size: 16pt;">Training:</b> th train.lua -data_dir data/hannahmontana -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5</p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.5 -length 4000</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.5 -length 4000</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 Oh, no, no, no, no, no, no, no, no, no, no.
@@ -460,7 +460,7 @@ It's not a second day and now I bet she's gonna make it any more
 
 <p> TODO ------ talk about results -------- Immediately, I was impressed. The network learned to impersonate awful singing Oh, no, no, ... and short choppy "oh, yeah" type sentences</p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.75 -length 4000 -primetext "Oh, yeah"</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.75 -length 4000 -primetext "Oh, yeah"</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 Oh, yeah, he should use the great are that and it was not going to say I can be his time to give you luck.
@@ -520,6 +520,8 @@ One of the people cranding love in the room and a gara later and the porty is so
 
 <p> TODO ------ talk about results -------- I was not as impressed with these results as I was with the first. I decided that this little teenage rnn was having a little too much freedom, so I clamped down and brought the temperature down with it</p>
 
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.25 -length 4000 -primetext "Oh, yeah"</p>
+
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 Oh, yeah, yeah, yeah, yeah I got a little bat of the stars of the stars and then you want to go to the beach that l didn't want to say that that was the stuff so like that.
 - I said it was the best friend of the car.
@@ -566,11 +568,11 @@ Well, I don't know what I do something like this to the whole stuff and she had 
 <p> TODO ------ talk about results -------- In my opinion, these results seemed the most realistic of any of the results from all 4 trained nets.</p>
 
 
-<p><b>The Lord of the Rings:</b></p>
+<p><b STYLE="font-size: 20pt;">The Lord of the Rings:</b></p>
 
-<p><b>Training:</b>th train.lua -data_dir data/lotr -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5</p>
+<p><b STYLE="font-size: 16pt;">Training:</b>th train.lua -data_dir data/lotr -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5</p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 ther rings trees and rock, not of barren cries, like a few servants of the horses and liuted it mingent. Even as they made them that the hobbits were not become little voices and notted the present great baglant that marched it from the utter of the willows in the wools and the Sea, until they had given through the fields of the Ring should not move and halt in desire. . Now sleep he was jest in up a plunger.
@@ -579,7 +581,7 @@ Come, as if he in the mountains as we need him before, under winding low faces w
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.5</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.5</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 ther there were not going in the land of the West, and maybe the company was made again. The long stars were all the hobbits and had seemed to be such a man of men, and the halfling was set out of the House of the North. The light of the wind was drawing near the sun with a strange stone, and a shining hollow had fled above the stone that had been become a strange house of the feet of a stars and shadowy stones. The silence sat before them came the hobbits and a hundred stone bent for a while that he had to look about them. But it was many many strength to tell him with long things with the rider and led them on the grey breach. It came to a long way and spoke of the hobbits and he had dreamed in the hobbits, and the pale road was wild and dark in the walls of the Citadel. The hobbits had fallen high and stared at them. But the morning stronger than a hobbit as he was fell and the great cry of the Gate was heavy. The light had been flying in the darkness and was shining and suddenly the last strength that he would not see their will and show them. They looked on a deep stone standing shadow and despair on the great heart of the walls of the great stream and the others stood in a broad western step of stars to the sun. And the water was gathering up and swiftly away to the hobbits when they had remembered that they stood again. There was a great left was a few more on the floor of the forest where the sun was already provided him to have been found, and they saw the place of the bank of the trees and the light of the further side of the heart of the walls and the heart of the pale steps of the small white fire. The fires of the City was like a weary stone from the flares of the Elves. The road was spared a strange black smoke and stone with spring and stood a short water. He was a string of distant flowers and dark heads before the walls and the three windows were running to the sky, and all the opening of the path was laid out of a great distance for a while. The ho
@@ -587,7 +589,7 @@ ther there were not going in the land of the West, and maybe the company was mad
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.75</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.75</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 ther spoon. Yet not in night of dead song that is going over the Pippin. They mean in the darkness that there is nothing his foot and fair days or warily all the streams. The Ring was gone.
@@ -599,7 +601,7 @@ The great of the things ride to the sea. It was with one hope and the standy its
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.25</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.25</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 ther the hobbits are still the strength of the Orcs and the North and the water and the trees were still before them. The stream was still and stretched and stared at them. The stream was still and strange and strange and staring and starting and stronger than the window of the hills. The stream was still the path of the stones of the Dark Lord. The great stream was still and stood the strangers of the walls. The wall was still and the ship of the stream and the strangers of the walls of the Dark Lord they were still to be seen and strange and strange and bright and streaming in the walls of the care of the stream, and there was a shadow of strength that he was still and the stream of the trees and the hobbits were still the stream. The stone was still the stones of the stones and the road and stood the stranger was in the trees. The stone was still a little branches of the hills. The hobbits were a shadow of strength and stroke and strange the steps of the stones of the Hobbits of the Enemy. They were still to see them and the wind they had not the desire of the hobbits and the stream of the trees and the stream that they were still the sound of the company of the horses of the City. The stream was still as if they were still and strange than they stood. The hobbits came to the great stream of the house of the walls of the Mountains of the Mountains of the Enemy and the hobbits and stood the stones of the night. The trees were strong and strange than they were strange to them. The right stream was stretched on the stream that stood alone and the broken shadow of the mountains and the stream and the shadow of the stream and stood up to the shadow of the stream. The company was between them. The stream was still the strangers of the stars and the stream there was a strange stream and the stone with a stream in the stones of the hills. And then the stream was still in the stream, and the shadows of the stream they stood before them. The stone was not the strength of t
@@ -607,7 +609,7 @@ ther the hobbits are still the strength of the Orcs and the North and the water 
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.1</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.1</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 ther was the strength of the Shire and the stream of the water and the stream of the stream that was still the strength of the stream of the stream. The stream was still the stream of the stream that had been still the strength of the stream of the stream that was still and the stones of the Shire. The stream was still and strange and strange and strange and strange than the stream of the hills. The hobbits were still the strength of the walls of the Mountains of the Mountains of the Mountains of the Mountains of the Mountains of the Mountains of the Mark and the stream of the stream that had been still the strength of the stars and the stones of the Enemy. The stream was still the stream of the stream and the stream of the stream that had been still the strength of the stream and the stream of the stream they saw that they were still the stream of the stones of the West. The stream was still and staring and stretched and stood at the stream of the stream and stood a strange stream of stone and strange the stream of the stream and the stream of the stream and the stream they saw the stream and the stream of the stream they were still the stream of the stars and the stones of the darkness and the stream of the stream that had been still the strength of the stream and the stream of the stream and the stream of the stream and the stream they saw that they were still the stream of the stars and the stream they saw that they were still the stream of the stream that had been strange and strange and strange than they stood at the stream that had been strange and strange and strange and strange than the stream of the stream. The stream was still and strange and strange and stream and the stream of the stream that had been still the strength of the stream and the stream of the stream and the stream of the stream and the stream of the stream of the stream and the stream of the stream of the stream that had been still still the stones of the stream and the stone and the stars
@@ -615,7 +617,7 @@ ther was the strength of the Shire and the stream of the water and the stream of
 
 <p> TODO ------ talk about results -------- </p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.9 -primetext "the company" -length 4000</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.9 -primetext "the company" -length 4000</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 the company of Mordor! ‘But if you be one of the matter of Théoden,’ cried Aragorn. ‘Maybe we can't have looked far below the kings that we can be count. Let me see right from other leature.’
@@ -637,11 +639,11 @@ They spoke the ridge of the end, and there men went pull
 
 
 
-<p><b>David Copperfield:</b></p>
+<p><b STYLE="font-size: 20pt;">David Copperfield:</b></p>
 
-<p><b>Training:</b> th train.lua -data_dir data/dickens -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5</p>
+<p><b STYLE="font-size: 16pt;">Training:</b> th train.lua -data_dir data/dickens -gpuid -1 -rnn_size 256 -num_layers 2 -dropout 0.5</p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 bong sobling;
@@ -687,7 +689,7 @@ a ponder.'
 
 <p> TODO ------ talk about results -------- Since they didn't have bongs in 19th Century England, I thought that sampling was a bit too liberal, so I adjusted the temperature of the softmax for sampling.</p>
 
-<p><b>Results:</b> th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1 -temperature 0.5 -length 6000</p>
+<p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1 -temperature 0.5 -length 6000</p>
 
 <PRE STYLE=”font-family: Georgia; font-size: 12pt; color: #000099;”>
 bond the old house
