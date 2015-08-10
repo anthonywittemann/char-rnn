@@ -226,7 +226,7 @@ a ponder.'
 'I know, when I Pegg
 
 
-Results: th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1 -temperture 0.5
+Results: th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1 -temperature 0.5
 bond the old house
 of the short in the rest of the houses were in a closeness of his hand,
 and shook his head at the morning, that the more was such a particular of
@@ -493,3 +493,141 @@ I don't know what you can stay and make me feel a little stupid and like the coo
 And I can't get the boy that you don't have to go to the life with me.
 Well, I don't know what I do something like this to the whole stuff and she had a little bad and you gotta go to the boy that you want to go to the band and then you want to say that? - What are you doing? - Oh, yeah, I don't know what you don't know what we do what I'm sorry that I don't know what you're gonna go to the best friend that I didn't have the room and the best friend who said I don't have to do this.
 - I got the best of both worlds
+
+
+Jersey Shore again: th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5 -primetext "yeah bro" -length 4000
+
+yeah brought the girls.
+- I don't know what I mean? - The good dight that makes something a doing me out of here.
+- I don't want to go to do you think I was like, "and I start to one can to year.
+- What the hell I do not have a good time.
+- So - [Laughs] - It's like, "what's your [Bleep] And a bear, because the relationship in my girl.
+I don't know what we can leave of my best and what is it.
+- That's this bad.
+I got a good thing to be a good time.
+- What the hell and I'm gonna have a good back with her before, like, was a getter finger the really good time to the way.
+- Who was with the bay.
+I want to get a can like this people are I'm gonna put getting we take the shore house, we're gonna do the one.
+- I don't know what it was not really like it and right now.
+- I don't have a good time.
+- What's the best pose.
+- We got to come down.
+- I'm so surpent.
+- I don't know.
+- That's what I was gonna be everything and the good night.
+- I just really don't want to go to me.
+- What are you putting the beach to not good time with the problem.
+- You don't know what I'm like, "I can't see you.
+- All right, we don't think that's just a coulle the start.
+- Yeah.
+- What the [Bleep] This is something of the thought like the kid as a back.
+My pusted who have a bance of the meatthing and was a door.
+- I'm doing to me.
+I'm gonna go to the night about the corner.
+- I don't want to go out.
+- I smere the it bitch that I'm not so pursing a little stirl good from a girl, like, that good with the good.
+She got a little it.
+I'm doon.
+- I got a good my boys at the boat.
+- I have to say you got on my shore the hard.
+- I don't have a time right now, I was gonna get there, and I want to go to sturt in a drink.
+- Yeah, you know, I'm gonna be a spines.
+- I'm gonna do that at a something.
+- Oh, my God, what do you got a little face the shower.
+- I don't know what you gotta be a lot the something out of the back.
+- You for me.
+- What the [Bleep] You need to do it, then is have a little feel have a look and she think and I think a good time.
+- I'm so sending the sweetest at her way.
+
+th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.25 -primetext "party" -length 4000
+
+party situation.
+I don't know what I mean? - I want to go to the beach the boys to the back to the same thing in the beach.
+- I want to go to the boys to me.
+- I got the beach.
+- I don't want to go to the bad.
+- Yeah, I want to go to the beach.
+I don't want to go to the party and the back because I don't want to go to the beach.
+- I want to go to the start and the beach the [Bleep] I think I think I don't know what I mean? - I got the beach.
+- I don't know what I mean, I don't know what I mean.
+- I don't know what the [Bleep] The way that I don't know what I mean, and I want to go to the spone and I want to go to the bad and the name is a good thing to be a good time.
+- What happened.
+- I don't know what I mean? - I don't know what I mean, I got a good time.
+- What the [Bleep] I don't want to take the real the day of the back the boys and the wither the back of the back to the back to the bathroom.
+- Can I do that the cab to me.
+- I don't want to go to the beach.
+I don't know what I mean? - I don't know what I mean? - What the hell is a girl the pickles the beach.
+- I don't know what I mean, I want to go to the face.
+- I don't know what it was a good time.
+- I don't know what I mean, I want to go to the bed.
+- I want to spore.
+- I want to go on the beach.
+- I'm gonna go to the boys are.
+- I want to go to the beach.
+- I don't know what I mean, my bed and I'm like, "what the hell we go to the bad.
+I don't know what I mean, I want to go to the bad.
+- You want to go to her on the same shower on the morning.
+- You got the car and the cound with the back to a same and the cab to the party better and the senond.
+- I don't know what I mean? - Yeah.
+- I don't know what I mean? - I don't know what I mean? - Yeah.
+- I don't know what I mean, I want to get the back to the back the shore.
+- I don't know what I mean? - You got a bed for the best for the party.
+- I don't know what I mean, I want to go to the face that I don't know what I mean? - I don't know what I mean? - I don't know what I mean, I have to go to the back to the beach.
+- Yeah, but I want to go to a good time.
+- I don't want to go to the sumerand and better and the way they don't want to go to the bag thing of the beach the beach.
+- I don't want to go to the bed.
+- I don't know what I mean? - The way we're gonna go to the some shower to the bag talk.
+- I don't know what I mean? - I want to go to the still and the boys on the start on the same thing to the beach.
+- I don't know what I mean, I want to go to the beach the girls.
+- What the hell the same the best thing.
+- I don't know what I mean? - All right, I want to go to the beach and the back home.
+- You don't want to go to the some that I don't know what I mean? - I don't know, I just want to do it that I can't take the back to the store to the bitch.
+I don't want to go to the bed.
+- What the [Bleep] What the [Bleep] What the hell I do not want to be the best thing.
+- I don't know what I mean.
+- I don't know what I mean, I'm gonna be the boys and the way we don't want to go to the house and I think you got to go to the pirse.
+I don't know what I mean, I want to go to the boys and the should me to the girls and the brother was the beach.
+- I got the boys and the cab and I don't know what I mean? - I don't know what I mean, I want to go to the bag time.
+I don't want to take this way.
+I want to go in the beach.
+- I want to go to the best with the bed.
+- I don't know what I mean, the bed there's no work to the boys to the good bed.
+- I don't want to go to the beach.
+- Yeah, you know, I got the same and the girls are going to the bad.
+- You want to go to the beach.
+I want to go to the better with you.
+You know what I mean, but I was like, "you know, I don't know what I mean? - I don't want to be the problems and the could do a little bad and the girls are meating that I don't want to go to the best there.
+- I don't know what I mean? - I don't know what I mean, I'm gonna go to the start and so because I don't know what I mean, I wan
+- I got for me.
+I don't are in the back of stuff.
+- I wanna be just the whole with the gares and the dirth the talk and do you got the has and how you stop to see you in the back off and I am here.
+You know.
+- We're going to the party comes to the morning.
+- I get it and say you can go there the boys there.
+- You gotta go to what I mean? You want to have to like that.
+- You know, but I'm not a little right had the house.
+- I want to do it.
+- I have a cab to the game.
+You need to go to the some tait.
+- We're gonna go me to be my matter a girl in the hald, and a little bad with the misther mating of the back to me, and I'm gonna go on the stuch to say that? - Yeah.
+- So I'm stuff the big girls.
+- You can't be contirise with you to the back time.
+- I don't know, that's your bank here.
+- I'm gonna be like, "and I'm the first something, I can go and have a shore.
+- I could go on the girls.
+That's a girl that I'm gonna show so better and it is my is the fact, I'm so working out of the game that you want to be a cab and he was wanting me and the little right there.
+- I want to go to this house.
+- Don't want to have a little boys back back.
+I don't know, I got my life better and go to see what I say what you think you want to feel the back and sure.
+What was so happened.
+- Like, I don't want to ever can I was a phone way a bar to to call the frickin' bean.
+- I just want to parting to be in the beach.
+- So I don't know what I mean, but yeah, yeah.
+- You know what I mean? - I don't want to know what I mean? - I don't want to say anything.
+- Yeah.
+- I don't know what I miss you the party, I got the poop to meet you.
+I don't know what we go, and we love anything and on the back of the definitely a place the beach.
+- I was could to get a cab with the thing with her home.
+- What the hell she want to be some for Jionni right now, so I'm gonna like a sexting and was a girl.
+- All right, then I got a good
+
