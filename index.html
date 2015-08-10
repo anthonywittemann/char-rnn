@@ -92,7 +92,7 @@ I know him, because Jenni's sorry.
 And I'
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> I was excited to see the net could learn the general structure of a TV script but at the same time not very impressed with the content as there was a lot of nonsense such as "What we're not afsepbation". I decided to tame the wild output by decreasing the temperature.</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5</p>
 
@@ -137,7 +137,7 @@ I'm doon.
 - What the [Bleep] You need to do it, then is have a little feel have a look and
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> Good, I got significantly less gobbledygook words, but only small chunks of words actually make sense together. Context usually dissapears after 20-30 characters. Next, I wanted to see if I could get the net to spit out some more creative text without adding too much gobbledygook.</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.75</p>
 
@@ -186,7 +186,7 @@ What's mink we're kissing out now.
 - Can you were that shating me and the isn? Changre and boor, come on, no, showing hard and don't I fe
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> Wow! Apparently the rnn learned the ignorance of the male characters in the show by matter of factly calling something "Gay" and tacking on bro at the end of sentences. Curious to see how much farther I could push the temperature, I upped it to 90% </p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.9 -primetext "I mean" -length 3000</p>
 
@@ -251,7 +251,7 @@ It's there that happen.
 - I tord you out and you just got sex Lest we know after that buddy
 </PRE>
 
-< TODO ------ talk about results -------- One thing the rnn learned was that they like Italian. Bravo char-rnn! </p>
+< TODO As expected, we got more nonsensical output. One thing the rnn learned the food prefences of the show characters: "I like Italian". Bravo char-rnn! For the next sampling, I decided to warm up the network with some typical text from the script and setting the temperature to the value which has previously yielded the most sensible output.</p>
 
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.5 -primetext "yeah bro" -length 4000</p>
@@ -300,7 +300,7 @@ I'm doon.
 - I'm so sending the sweetest at her way.
 </PRE>
 
-< TODO ------ talk about results -------- This could honestly be the script for the show if the actors and actresses were seriously drunk. </p>
+< This could honestly be the script for the show if the actors and actresses were seriously drunk. I was pretty happy with this output, but wanted to see what a more conservative output would look like.</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch40.75_1.3844.t7 -gpuid -1 -temperature 0.25 -primetext "party" -length 4000</p>
 
@@ -396,7 +396,7 @@ I don't know what we go, and we love anything and on the back of the definitely 
 - All right, then I got a good
 </PRE>
 
-<p> TODO ------ talk about results -------- Apparently, this rnn just doesn't know. </p>
+<p> Apparently, this rnn just doesn't know. I think it's that next level drunk right before it start's throwing up. </p>
 
 </p><p><b STYLE="font-size: 20pt;">Hannah Montana:</b></p>
 
@@ -458,7 +458,7 @@ Oh, no, you don't know what you're not asked to get out of the single in the way
 It's not a second day and now I bet she's gonna make it any more
 </PRE>
 
-<p> TODO ------ talk about results -------- Immediately, I was impressed. The network learned to impersonate awful singing Oh, no, no, ... and short choppy "oh, yeah" type sentences</p>
+<p> Immediately, I was impressed. The network learned to impersonate awful singing "Oh, no, no, ..." and short choppy "oh, yeah" type sentences. Next, I gave it a bit more freedom increasing the temperature to 75%.</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.75 -length 4000 -primetext "Oh, yeah"</p>
 
@@ -518,7 +518,7 @@ Oh, yeah, why don't you go out to the long.
 One of the people cranding love in the room and a gara later and the porty is so will supp
 </PRE>
 
-<p> TODO ------ talk about results -------- I was not as impressed with these results as I was with the first. I decided that this little teenage rnn was having a little too much freedom, so I clamped down and brought the temperature down with it</p>
+<p> When loading the scripts, apparently some I's were mistaked for l's, because sentences like: "l don't know" appear somewhat frequently. I was not as impressed with these results as I was with the first. I decided that this little teenage rnn was having a little too much freedom, so I clamped down and brought the temperature down with it</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch45.11_1.2771.t7 -gpuid -1 -temperature 0.25 -length 4000 -primetext "Oh, yeah"</p>
 
@@ -565,7 +565,7 @@ Well, I don't know what I do something like this to the whole stuff and she had 
 - I got the best of both worlds
 </PRE>
 
-<p> TODO ------ talk about results -------- In my opinion, these results seemed the most realistic of any of the results from all 4 trained nets.</p>
+<p> Again, a lot of basic sentences showed up frequently such as "I don't know", "I can't believe ...", and "What are you doing?". In my opinion, these results seemed the most realistic of any of the results from all 4 trained nets.</p>
 
 
 <p><b STYLE="font-size: 20pt;">The Lord of the Rings:</b></p>
@@ -579,7 +579,7 @@ ther rings trees and rock, not of barren cries, like a few servants of the horse
 Come, as if he in the mountains as we need him before, under winding low faces when Mordor they put the there over slepped behind the Silverlode With welloning. The world let cut the World of War, the hobbits recalled, having ran to a brink swart of mingled white feather, from elreat to look by silence. He saw that they rested: a content. It was but nonetheless, Elendil just shall be. But in that song are here that clear the broad ground there all the mads behind his man as the lamths of the Lady I would not hear that Théoden flying nearer against a grey food, as the  runs they offered the western trees. Frodo knew that here the man were attented for mich ran now. Wholess down the house of Mordor pulling them defelder. They had not talked to the of all the western sky. On the Brandywine Long sense of wolves trying with bungres, in Harad in the lands of Fangorn. And the hobbits could find them ashing his here, the Manthes of the horns and men, as it seemed. As now was now what had never, he should be so answered, straight back; and he grew from dilly. ‘Last forgotten feet beneath all the hangs,’ said Aragorn, ‘that’s young laggand; for you will not fear you message murrer diy. And here you know but keeper where I?’ he said. ‘Eye beyond the answer he has hardly bern tones, the window of the post that except heir of our years, upon its minds along the names of Isildur, and join the silver Rider. And if it of hobbits were a horseman to swifter than mist, and they had fallen to himself long ago. On this Elven-household had clambering forward, and he cam
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> Probably due to the large vocabulary and vast array of imaginary places, events and creatures Tolkien created in the world of Middle Earth, the rnn had a difficult time building a vocabulary from the character level to words, let alone sensable sequences. As a result, I decided to lower the temperature to find out what the output looked like without the nonsense words.</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.5</p>
 
@@ -587,7 +587,7 @@ Come, as if he in the mountains as we need him before, under winding low faces w
 ther there were not going in the land of the West, and maybe the company was made again. The long stars were all the hobbits and had seemed to be such a man of men, and the halfling was set out of the House of the North. The light of the wind was drawing near the sun with a strange stone, and a shining hollow had fled above the stone that had been become a strange house of the feet of a stars and shadowy stones. The silence sat before them came the hobbits and a hundred stone bent for a while that he had to look about them. But it was many many strength to tell him with long things with the rider and led them on the grey breach. It came to a long way and spoke of the hobbits and he had dreamed in the hobbits, and the pale road was wild and dark in the walls of the Citadel. The hobbits had fallen high and stared at them. But the morning stronger than a hobbit as he was fell and the great cry of the Gate was heavy. The light had been flying in the darkness and was shining and suddenly the last strength that he would not see their will and show them. They looked on a deep stone standing shadow and despair on the great heart of the walls of the great stream and the others stood in a broad western step of stars to the sun. And the water was gathering up and swiftly away to the hobbits when they had remembered that they stood again. There was a great left was a few more on the floor of the forest where the sun was already provided him to have been found, and they saw the place of the bank of the trees and the light of the further side of the heart of the walls and the heart of the pale steps of the small white fire. The fires of the City was like a weary stone from the flares of the Elves. The road was spared a strange black smoke and stone with spring and stood a short water. He was a string of distant flowers and dark heads before the walls and the three windows were running to the sky, and all the opening of the path was laid out of a great distance for a while. The ho
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> I was happy not only with the words it output, but also the flow of the sentences, which did a good job mimicking the flow of Tolkien's writing style. Curious about how the results from not lowering the temperature quite as drastically would look, I set the temperature to 0.75</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.75</p>
 
@@ -599,7 +599,7 @@ The great of the things ride to the sea. It was with one hope and the standy its
 ‘I will see, as quite some! You think we she say a few of the Shire, and Frodo, before you want for the Elves, shape of weapons of the Lord. And if I look for a long moment that will pass to his house. It is a trees, especially that some of the tongue of Bag End will go like a flates of a man-out of many
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> I think I found the sweet spot here that output dialouge with the rest of the test looking similiar to preivous ouptuts. </p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.25</p>
 
@@ -607,7 +607,7 @@ The great of the things ride to the sea. It was with one hope and the standy its
 ther the hobbits are still the strength of the Orcs and the North and the water and the trees were still before them. The stream was still and stretched and stared at them. The stream was still and strange and strange and staring and starting and stronger than the window of the hills. The stream was still the path of the stones of the Dark Lord. The great stream was still and stood the strangers of the walls. The wall was still and the ship of the stream and the strangers of the walls of the Dark Lord they were still to be seen and strange and strange and bright and streaming in the walls of the care of the stream, and there was a shadow of strength that he was still and the stream of the trees and the hobbits were still the stream. The stone was still the stones of the stones and the road and stood the stranger was in the trees. The stone was still a little branches of the hills. The hobbits were a shadow of strength and stroke and strange the steps of the stones of the Hobbits of the Enemy. They were still to see them and the wind they had not the desire of the hobbits and the stream of the trees and the stream that they were still the sound of the company of the horses of the City. The stream was still as if they were still and strange than they stood. The hobbits came to the great stream of the house of the walls of the Mountains of the Mountains of the Enemy and the hobbits and stood the stones of the night. The trees were strong and strange than they were strange to them. The right stream was stretched on the stream that stood alone and the broken shadow of the mountains and the stream and the shadow of the stream and stood up to the shadow of the stream. The company was between them. The stream was still the strangers of the stars and the stream there was a strange stream and the stone with a stream in the stones of the hills. And then the stream was still in the stream, and the shadows of the stream they stood before them. The stone was not the strength of t
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> For kicks and giggles, I lowered the temperature to a silly level to what the rnn felt most confident it had learned. Stream, wall, Dark Lord, trees, strength, strange, hobbits, shadow, mountains, and stone seem to be the essense of the LOTR according to the char-rnn.</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.1</p>
 
@@ -615,7 +615,7 @@ ther the hobbits are still the strength of the Orcs and the North and the water 
 ther was the strength of the Shire and the stream of the water and the stream of the stream that was still the strength of the stream of the stream. The stream was still the stream of the stream that had been still the strength of the stream of the stream that was still and the stones of the Shire. The stream was still and strange and strange and strange and strange than the stream of the hills. The hobbits were still the strength of the walls of the Mountains of the Mountains of the Mountains of the Mountains of the Mountains of the Mountains of the Mark and the stream of the stream that had been still the strength of the stars and the stones of the Enemy. The stream was still the stream of the stream and the stream of the stream that had been still the strength of the stream and the stream of the stream they saw that they were still the stream of the stones of the West. The stream was still and staring and stretched and stood at the stream of the stream and stood a strange stream of stone and strange the stream of the stream and the stream of the stream and the stream they saw the stream and the stream of the stream they were still the stream of the stars and the stones of the darkness and the stream of the stream that had been still the strength of the stream and the stream of the stream and the stream of the stream and the stream they saw that they were still the stream of the stars and the stream they saw that they were still the stream of the stream that had been strange and strange and strange than they stood at the stream that had been strange and strange and strange and strange than the stream of the stream. The stream was still and strange and strange and stream and the stream of the stream that had been still the strength of the stream and the stream of the stream and the stream of the stream and the stream of the stream of the stream and the stream of the stream of the stream that had been still still the stones of the stream and the stone and the stars
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> Let's take it even farther shall we? If there's one thing the rnn trained on the LOTR feels comfortable about, it almost certainly involves a stream. </p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch50.00_1.1178.t7 -gpuid -1 -temperature 0.9 -primetext "the company" -length 4000</p>
 
@@ -635,7 +635,7 @@ He did not wearied him and say he it spoke.
 They spoke the ridge of the end, and there men went pull
 </PRE>
 
-<p> TODO ------ talk about results -------- I find it entertaining that they found a spock in Middle Earth :)</p>
+<p> By lowering the temperature by just a tad from 1, the paragraph structure was more reasonable and didn't get stuck in an infinite loop talking about the stream. In my opinion, this output was the best among the LOTR outputs. I find it entertaining that they found a spock in Middle Earth :)</p>
 
 
 
@@ -687,7 +687,7 @@ a ponder.'
 'I know, when I Pegg
 </PRE>
 
-<p> TODO ------ talk about results -------- Since they didn't have bongs in 19th Century England, I thought that sampling was a bit too liberal, so I adjusted the temperature of the softmax for sampling.</p>
+<p> Since they didn't have bongs in 19th Century England, I thought that sampling was a bit too liberal, so I adjusted the temperature of the softmax for sampling.</p>
 
 <p><b STYLE="font-size: 16pt;">Results:</b> th sample.lua cv/lm_lstm_epoch49.07_1.1937.t7 -gpuid -1 -temperature 0.5 -length 6000</p>
 
@@ -774,7 +774,7 @@ as I was only whom I knew what I saw them about the common respectable and unnec
 than a fire to her life, an
 </PRE>
 
-<p> TODO ------ talk about results -------- </p>
+<p> Without reading into whether the words make too much sense when put together, this looks resembles the structure of a Dicken's novel. The rnn sometimes understands to put diaglouge on new lines, and close the quotes, but the parts it does get rightsound very British. Overall, pretty satisfied with the result!</p>
 
 
 <h3>
